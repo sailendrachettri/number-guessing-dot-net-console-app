@@ -1,0 +1,2 @@
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\bin\Release\net8.0\win-x64\publish\guessGame.pdb
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\bin\Release\net8.0\win-x64\publish\guessGame.exe

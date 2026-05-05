@@ -1,0 +1,15 @@
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\bin\Release\net8.0\guessGame.exe
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\bin\Release\net8.0\guessGame.deps.json
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\bin\Release\net8.0\guessGame.runtimeconfig.json
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\bin\Release\net8.0\guessGame.dll
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\bin\Release\net8.0\guessGame.pdb
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\guessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\guessGame.AssemblyInfoInputs.cache
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\guessGame.AssemblyInfo.cs
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\guessGame.csproj.CoreCompileInputs.cache
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\guessGame.sourcelink.json
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\guessGame.dll
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\refint\guessGame.dll
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\guessGame.pdb
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\guessGame.genruntimeconfig.cache
+C:\Users\Nerd\OneDrive\Desktop\codes\softwares\number-guessing-dot-net-console-app\guessGame\guessGame\obj\Release\net8.0\ref\guessGame.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S96GaBmuVvA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nerd\\OneDrive\\Desktop\\codes\\softwares\\number-guessing-dot-net-console-app\\guessGame\\guessGame\\guessGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nerd\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.22\\microsoft.netcore.app.runtime.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\Nerd\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.22\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\Nerd\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.22\\microsoft.aspnetcore.app.runtime.win-x64.8.0.22.nupkg.sha512",
+    "C:\\Users\\Nerd\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.22\\microsoft.netcore.app.crossgen2.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
