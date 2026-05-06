@@ -35,6 +35,7 @@ while (userChoice)
             Console.Clear();
             Console.WriteLine("Guess number between 1 to 100");
             guess = rand.Next(1, 101);
+            times = 1;
         }
         else
         {
